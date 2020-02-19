@@ -1,0 +1,46 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+a {
+  text-decoration: none;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.layout {
+  /* border: 1px solid black; */
+  width: 25%;
+  height: 50vh;
+}
+.site-one {
+  background-color: coral;
+}
+.site-two {
+  background-color: lightcoral;
+}
+.site-three {
+  background-color: lightgreen;
+}
+.site-four {
+  background-color: orange;
+}
+.site-five {
+  background-color: lightcyan;
+}
+.site-six {
+  background-color: violet;
+}
+.site-seven {
+  background-color: lightgrey;
+}
+.site-eight {
+  background-color: lightblue;
+}
