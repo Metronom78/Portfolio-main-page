@@ -13,10 +13,11 @@ ol {
 }
 .container {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
 }
 .layout {
-  /* border: 1px solid black; */
+  border: 2px solid darkgreen;
   width: 25%;
   height: 50vh;
 }
